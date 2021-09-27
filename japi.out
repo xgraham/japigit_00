@@ -1,0 +1,19 @@
+/Users/alexgraham/PycharmProjects/pythonProject1/venv/bin/python /Users/alexgraham/PycharmProjects/pythonProject1/japi/japi.py
+enter a ticker symbol or 'quit' to quit: AAPL
+{"c":145.58,"d":-1.34,"dp":-0.9121,"h":145.95,"l":143.82,"o":145.47,"pc":146.92,"t":1632768176}
+The current price of AAPL is: 145.58
+enter a ticker symbol or 'quit' to quit: MMAT
+{"c":6.265,"d":1.105,"dp":21.4147,"h":6.27,"l":5.24,"o":5.24,"pc":5.16,"t":1632768166}
+The current price of MMAT is: 6.265
+enter a ticker symbol or 'quit' to quit: MSFT
+{"c":293.86,"d":-5.49,"dp":-1.834,"h":296.47,"l":292.9449,"o":296.14,"pc":299.35,"t":1632768202}
+The current price of MSFT is: 293.86
+enter a ticker symbol or 'quit' to quit: PTRA
+{"c":10.95,"d":0.83,"dp":8.2016,"h":10.99,"l":10.02,"o":10.1,"pc":10.12,"t":1632768174}
+The current price of PTRA is: 10.95
+enter a ticker symbol or 'quit' to quit: GME
+{"c":187.9386,"d":2.7786,"dp":1.5006,"h":192,"l":185.87,"o":185.92,"pc":185.16,"t":1632768161}
+The current price of GME is: 187.9386
+enter a ticker symbol or 'quit' to quit: quit
+
+Process finished with exit code 0
