@@ -25,4 +25,4 @@ if __name__ == '__main__':
         print(res)
         ticker_data = json.loads(res)
         print(f'The current price of {ticker} is: {ticker_data["c"]}')
-        print("Stock Quotes retrieved successfully!")
+        print("Stock Quotes retrieved successfully!zz")
